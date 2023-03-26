@@ -1,0 +1,59 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.29.64.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1679793775710
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1679793993280
+  login: 1679794020362
+  kits:
+    firework: 1679792458958
+    notch: 1679792464205
+money: '0'
+last-account-name: sanford
+logoutlocation:
+  world: 4dc09b0a-b783-47ee-bf8c-6f8948e04f75
+  world-name: world
+  x: -7972853.419424579
+  y: 103.0
+  z: 2.9268979699999988E7
+  yaw: -169.59490966796875
+  pitch: 27.59962272644043
+homes:
+  house:
+    world: 4dc09b0a-b783-47ee-bf8c-6f8948e04f75
+    world-name: world
+    x: -54.89140521546646
+    y: 71.0
+    z: -48.379732632055294
+    yaw: 118.20118713378906
+    pitch: 16.04999542236328
+  house2:
+    world: 306b3b46-430c-410c-943e-dc7f523bdf90
+    world-name: world
+    x: -53.05178784681197
+    y: 71.0
+    z: -44.392297313250246
+    yaw: 118.20118713378906
+    pitch: 16.04999542236328
+lastlocation:
+  world: 4dc09b0a-b783-47ee-bf8c-6f8948e04f75
+  world-name: world
+  x: -1.8383930961433526E7
+  y: 105.7427273968244
+  z: -2.313527632697276E7
+  yaw: 74.06463623046875
+  pitch: 41.84994125366211
+nickname: Alessandro
