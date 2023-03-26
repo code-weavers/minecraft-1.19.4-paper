@@ -4,3 +4,5 @@ world_the_end
 
 plugins/LuckPerms/luckperms-h2.mv.db
 logs
+
+usercache

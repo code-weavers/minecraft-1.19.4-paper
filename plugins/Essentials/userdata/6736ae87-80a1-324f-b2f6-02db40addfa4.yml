@@ -16,21 +16,22 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1679796099126
-  login: 1679795647127
+  logout: 1679798810621
+  login: 1679799938252
   kits:
     firework: 1679792458958
     notch: 1679792464205
+    inicial: 1679800065481
 money: '0'
 last-account-name: sanford
 logoutlocation:
   world: 4dc09b0a-b783-47ee-bf8c-6f8948e04f75
   world-name: world
-  x: 356.1513611328146
-  y: 74.0
-  z: 127.69999998807907
-  yaw: 137.8487091064453
-  pitch: 23.549978256225586
+  x: 182.69999998807907
+  y: 67.0
+  z: 92.03335428110474
+  yaw: -56.550010681152344
+  pitch: -1.4999918937683105
 homes:
   house:
     world: 4dc09b0a-b783-47ee-bf8c-6f8948e04f75
