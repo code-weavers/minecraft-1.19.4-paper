@@ -16,7 +16,7 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1679794475619
+  logout: 1679794813504
   login: 1679794613542
   kits:
     firework: 1679792458958
@@ -26,11 +26,11 @@ last-account-name: sanford
 logoutlocation:
   world: 4dc09b0a-b783-47ee-bf8c-6f8948e04f75
   world-name: world
-  x: 180.69999998807907
-  y: 69.0
-  z: 71.34792005646243
-  yaw: 174.901611328125
-  pitch: 3.300117015838623
+  x: 306.59780220769676
+  y: 80.0
+  z: 68.15379870962093
+  yaw: -140.09805297851562
+  pitch: 28.19998550415039
 homes:
   house:
     world: 4dc09b0a-b783-47ee-bf8c-6f8948e04f75
